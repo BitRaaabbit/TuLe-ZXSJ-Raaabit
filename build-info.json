@@ -3,8 +3,8 @@
   "channel": "production",
   "toolVersion": "1.0.0",
   "dataReleaseId": "s4-2026-07-13-v1",
-  "sourceCommit": "f7d093a3d0d361753b8c3b6285a22e151a2c4832",
+  "sourceCommit": "fd686c9c201dcfb9498bc6f5c8e2d57d0b5d2dfc",
   "fileCount": 9,
-  "buildTime": "2026-07-24T10:31:14.289013+00:00",
+  "buildTime": "2026-07-27T17:34:09.456355+00:00",
   "noindex": false
 }
