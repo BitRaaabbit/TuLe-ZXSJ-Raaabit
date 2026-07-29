@@ -1,10 +1,10 @@
 {
   "toolName": "兔了诛仙世界工具箱",
   "channel": "production",
-  "toolVersion": "1.0.0",
+  "toolVersion": "1.0.1",
   "dataReleaseId": "s4-2026-07-13-v1",
-  "sourceCommit": "fd686c9c201dcfb9498bc6f5c8e2d57d0b5d2dfc",
-  "fileCount": 9,
-  "buildTime": "2026-07-27T17:34:09.456355+00:00",
+  "sourceCommit": "97ea8acbde7cfc969ac1a954652108ba08846db6",
+  "fileCount": 10,
+  "buildTime": "2026-07-29T15:50:28.692207+00:00",
   "noindex": false
 }
